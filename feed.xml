@@ -4,10 +4,10 @@
     <title>Your Jekyllshop</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://127.0.0.1:4000/jekyllshop/</link>
-    <atom:link href="http://127.0.0.1:4000/jekyllshop/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 27 Feb 2016 18:51:04 +0800</pubDate>
-    <lastBuildDate>Sat, 27 Feb 2016 18:51:04 +0800</lastBuildDate>
+    <link>http://jekyllshop.github.io/jekyllshop/</link>
+    <atom:link href="http://jekyllshop.github.io/jekyllshop/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 27 Feb 2016 20:48:47 +0800</pubDate>
+    <lastBuildDate>Sat, 27 Feb 2016 20:48:47 +0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -17,8 +17,8 @@
 &lt;p&gt;Duis non molestie magna. Integer bibendum sapien enim, vitae egestas nisl commodo vel. Ut nec viverra quam. Cras tortor justo, tincidunt nec rutrum nec, mollis vel massa. Pellentesque dapibus lectus velit, ac egestas lorem malesuada auctor. Proin rutrum pharetra est, nec maximus ex rhoncus at. Donec gravida, diam imperdiet hendrerit pulvinar, metus est egestas est, id ornare risus dui viverra urna. Morbi risus massa, varius fermentum neque accumsan, ullamcorper faucibus magna. Nullam cursus sollicitudin enim, sit amet porta mauris ullamcorper in.&lt;/p&gt;
 </description>
         <pubDate>Thu, 03 Dec 2015 23:21:35 +0800</pubDate>
-        <link>http://127.0.0.1:4000/jekyllshop/blog/2015/12/03/sample-blog-post/</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/jekyllshop/blog/2015/12/03/sample-blog-post/</guid>
+        <link>http://jekyllshop.github.io/jekyllshop/blog/2015/12/03/sample-blog-post/</link>
+        <guid isPermaLink="true">http://jekyllshop.github.io/jekyllshop/blog/2015/12/03/sample-blog-post/</guid>
         
         
         <category>blog</category>
@@ -43,8 +43,8 @@
 
 </description>
         <pubDate>Thu, 15 Oct 2015 16:55:28 +0800</pubDate>
-        <link>http://127.0.0.1:4000/jekyllshop/jekyll/update/2015/10/15/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/jekyllshop/jekyll/update/2015/10/15/welcome-to-jekyll/</guid>
+        <link>http://jekyllshop.github.io/jekyllshop/jekyll/update/2015/10/15/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://jekyllshop.github.io/jekyllshop/jekyll/update/2015/10/15/welcome-to-jekyll/</guid>
         
         
         <category>jekyll</category>
