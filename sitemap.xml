@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 		xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
-		xmlns:product="http://jekyllshop.github.io/jekyllshop/product_schema/">
+		xmlns:product="https://jekyllshop.github.io/jekyllshop/product_schema/">
 	
 		
 	
@@ -14,7 +14,7 @@
 		
 			
 				<url>
-					<loc>http://jekyllshop.github.io/jekyllshop/products/donate/</loc>
+					<loc>https://jekyllshop.github.io/jekyllshop/products/donate/</loc>
 
 					
 						
@@ -168,7 +168,7 @@
 						
 							
 								<image:image>
-									<image:loc>http://jekyllshop.github.io/jekyllshop/products/donate/1.jpg</image:loc>
+									<image:loc>https://jekyllshop.github.io/jekyllshop/products/donate/1.jpg</image:loc>
 								</image:image>
 							
 						
@@ -229,7 +229,7 @@ Here’s our &lt;a href=&quot;https://www.indiegogo.com/projects/open-sourcing-t
 		
 			
 				<url>
-					<loc>http://jekyllshop.github.io/jekyllshop/products/nikon-d5300/</loc>
+					<loc>https://jekyllshop.github.io/jekyllshop/products/nikon-d5300/</loc>
 
 					
 						
@@ -387,7 +387,7 @@ Here’s our &lt;a href=&quot;https://www.indiegogo.com/projects/open-sourcing-t
 						
 							
 								<image:image>
-									<image:loc>http://jekyllshop.github.io/jekyllshop/products/nikon-d5300/1.gif</image:loc>
+									<image:loc>https://jekyllshop.github.io/jekyllshop/products/nikon-d5300/1.gif</image:loc>
 								</image:image>
 							
 						
@@ -395,7 +395,7 @@ Here’s our &lt;a href=&quot;https://www.indiegogo.com/projects/open-sourcing-t
 						
 							
 								<image:image>
-									<image:loc>http://jekyllshop.github.io/jekyllshop/products/nikon-d5300/2.gif</image:loc>
+									<image:loc>https://jekyllshop.github.io/jekyllshop/products/nikon-d5300/2.gif</image:loc>
 								</image:image>
 							
 						
@@ -455,7 +455,7 @@ Here’s our &lt;a href=&quot;https://www.indiegogo.com/projects/open-sourcing-t
 		
 			
 				<url>
-					<loc>http://jekyllshop.github.io/jekyllshop/products/sample-product-1/</loc>
+					<loc>https://jekyllshop.github.io/jekyllshop/products/sample-product-1/</loc>
 
 					
 						
@@ -661,7 +661,7 @@ Here’s our &lt;a href=&quot;https://www.indiegogo.com/projects/open-sourcing-t
 		
 			
 				<url>
-					<loc>http://jekyllshop.github.io/jekyllshop/products/sample-product-2/</loc>
+					<loc>https://jekyllshop.github.io/jekyllshop/products/sample-product-2/</loc>
 
 					
 						
@@ -871,7 +871,7 @@ Here’s our &lt;a href=&quot;https://www.indiegogo.com/projects/open-sourcing-t
 		
 			
 				<url>
-					<loc>http://jekyllshop.github.io/jekyllshop/products/sony-nex-6/</loc>
+					<loc>https://jekyllshop.github.io/jekyllshop/products/sony-nex-6/</loc>
 
 					
 						
@@ -1037,7 +1037,7 @@ Here’s our &lt;a href=&quot;https://www.indiegogo.com/projects/open-sourcing-t
 						
 							
 								<image:image>
-									<image:loc>http://jekyllshop.github.io/jekyllshop/products/sony-nex-6/1.gif</image:loc>
+									<image:loc>https://jekyllshop.github.io/jekyllshop/products/sony-nex-6/1.gif</image:loc>
 								</image:image>
 							
 						
@@ -1045,7 +1045,7 @@ Here’s our &lt;a href=&quot;https://www.indiegogo.com/projects/open-sourcing-t
 						
 							
 								<image:image>
-									<image:loc>http://jekyllshop.github.io/jekyllshop/products/sony-nex-6/2.gif</image:loc>
+									<image:loc>https://jekyllshop.github.io/jekyllshop/products/sony-nex-6/2.gif</image:loc>
 								</image:image>
 							
 						
