@@ -1,0 +1,11 @@
+/* 
+    Created on : 12 8, 15, 8:45:27 PM
+    Author     : 5ervant <Mark Anthony B. Dungo>
+*/
+
+@media screen and (min-width: 768px) {
+	.checkout article > .modal ul.list-unstyled,
+	.product article > .modal ul.list-unstyled {
+		position: static;
+	}
+}
